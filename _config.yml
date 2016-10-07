@@ -1,12 +1,9 @@
 # Site settings
 title: Casper Woroszylo
 email: cerosz@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  I'm a Postdoctoral fellow at the Mathematical Biosciences Institute at the Ohio State University.
-  I'm study the variability and dynamics associated with physical systems.
+description: "I'm a Postdoctoral fellow at the [MBI](mbi.osu.edu). I'm interested in the variability and dynamics associated with physical systems."
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "casperw.github.io" # the base hostname & protocol for your site
-#twitter_username: JAlexBranham
 github_username:  casperw
 permalink: /blog/:year/:month/:title.html
 gems:
