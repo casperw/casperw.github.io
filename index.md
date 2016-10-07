@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![smiley](../images/me.jpg)!
+![](../image/me.jpg)
 
 
 I am a Postdoctoral Fellow at the [Mathematical Biosciences Insititute](http://mbi.osu.edu/) at [The Ohio State Univerisity](https://www.osu.edu/).  I try to model the variability and dynamics associated with physical systems.  In 2015, I received my PHD from the [Department of Statistics](http://statistics.rice.edu/) under the direction of [Dennis Cox](http://statistics.rice.edu/feed/FacultyDisplay.aspx?FID=268) and [Marek Kimmel](http://statistics.rice.edu/feed/FacultyDisplay.aspx?FID=270).  
