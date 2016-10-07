@@ -8,7 +8,10 @@ github_username:  casperw
 permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
-
-# Build settings
+  - jekyll-redirect-from
+  
 markdown: kramdown
 theme: minima
+
+# needed for CI builds:
+exclude: [vendor]
