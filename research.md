@@ -7,7 +7,7 @@ permalink: /research/
 # Research Interests
 My research interests lie broadly in applied probability, stochastic processes, and statistical inference in the context of biochemical reaction networks and compartmental population models.  In particular, my attention has been focused on multiscale models for biochemical systems.
 
-* Biochemical reaction networks
+\textbf{Biochemical reaction networks}
 
 Biochemical systems are typically modeled stochastically as continuous time Markov chains where transitions represent chemical reactions and states represent freqeuences of molecule types present. However, in systems biology, mechanisms such as DNA transcription and protein formation are com- putationally expensive to model in tandem due to the various orders of magnitude of time and space involved, i.e. multiscale nature of the system. Hence, multiscale models attempt to simplify such systems by introducing approximations that still capture the underlying behavior.
   + Woroszylo, C. and Cox, D.D. (Submitted), Constructive Approaches to Multiscale Approximations in Biochemical Reaction Networks.
