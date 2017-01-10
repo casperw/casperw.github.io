@@ -4,7 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-# Research Interests
 My research interests lie broadly in applied probability, stochastic processes, and statistical inference in the context of biochemical reaction networks and compartmental population models.  In particular, my attention has been focused on multiscale models for biochemical systems.
 
 ### Biochemical reaction networks
