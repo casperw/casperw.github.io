@@ -12,5 +12,5 @@ Some of my current research is listed on [this page](/research/). (Updating)
 
 My teaching experience is listed [here](/teaching/).
 
-My CV is available [here](/cv/woroszylo-cv.pdf).
+My CV is available [here](/cv/cv.pdf).
 
