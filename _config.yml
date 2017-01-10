@@ -1,7 +1,7 @@
 # Site settings
 title: Casper Woroszylo
 email: cerosz@gmail.com
-description: "I'm a Postdoctoral fellow at the MBI at Ohio State. I'm interested in the variability and dynamics associated with physical systems."
+description: "Postdoctoral fellow at the MBI at Ohio State."
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://casperw.github.io/" # the base hostname & protocol for your site
 github_username:  casperw
