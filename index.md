@@ -10,8 +10,7 @@ I am a Postdoctoral Fellow at the [Mathematical Biosciences Insititute](http://m
 
 Some of my current research is listed on [this page](/research/). (Updating)
 
-My teaching experience is listed [here](/teaching/) along with (some)
-of my notes.
+My teaching experience is listed [here](/teaching/).
 
-CV available upon request.
+My CV is available [here](/cv/woroszylo-cv.pdf).
 
