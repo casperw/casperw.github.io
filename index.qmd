@@ -1,10 +1,8 @@
 ---
-title: "casperw.github.io2"
+title: "Such and Such"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is a website dedicated to unrefined thoughts of mine. Enjoy.
 
 ```{r}
 1 + 1
