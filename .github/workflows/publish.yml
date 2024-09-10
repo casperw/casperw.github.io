@@ -1,12 +1,15 @@
+name: Render and Publish
+
 on:
   push:
     branches: main
 
-name: Render and Publish
-
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
+      pages: write
     steps:
       - name: Check out repository
         uses: actions/checkout@v2 
