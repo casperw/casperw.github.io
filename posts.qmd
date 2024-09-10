@@ -1,0 +1,6 @@
+title: "Thoughts"
+listing:
+    contents: posts
+    type: table
+    sort: "date desc"
+    categories: true
