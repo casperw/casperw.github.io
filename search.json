@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/2024-09-10-quarto-thought/index.html",
+    "href": "posts/2024-09-10-quarto-thought/index.html",
+    "title": "Hello World",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hi. Thanks for looking here. Hope to post more soon.\n\n\n\nCitationBibTeX citation:@online{2024,\n  author = {, Casper},\n  title = {Hello {World}},\n  date = {2024-09-10},\n  url = {https://casperw.github.io/posts/2024-09-10-quarto-thought/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nCasper. 2024. “Hello World.” September 10, 2024. https://casperw.github.io/posts/2024-09-10-quarto-thought/."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Thoughts",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nSep 10, 2024\n\n\nHello World\n\n\nCasper \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -14,10 +21,10 @@
     "text": "This is a website dedicated to unrefined thoughts of mine. Enjoy.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Thoughts",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "No matching items"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
