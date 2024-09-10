@@ -2,7 +2,7 @@
 title: "Thoughts"
 listing:
     contents: posts
-    type: table
+    type: default
     sort: "date desc"
     categories: true
 ---
