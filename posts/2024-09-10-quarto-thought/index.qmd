@@ -1,0 +1,15 @@
+---
+title: "Hello World"
+description: "My first thought!"
+author:
+  - name: Casper 
+    url: https://casperw.github.io/
+date: 09-10-2024
+categories: [Quarto, R, Python, Statistics, Math] # self-defined categories
+citation: 
+  url: https://casperw.github.io/posts/2024-09-10-quarto-thought/ 
+image: sloth.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Hi.  Thanks for looking here.  Hope to post more soon.
