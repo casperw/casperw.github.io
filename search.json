@@ -12,5 +12,12 @@
     "title": "Welcome!",
     "section": "",
     "text": "This is a website dedicated to unrefined thoughts of mine. Enjoy.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Such and Such",
+    "section": "",
+    "text": "title: “Thoughts” listing: contents: posts type: table sort: “date desc” categories: true"
   }
 ]
