@@ -1,5 +1,5 @@
 ---
-title: "Such and Such"
+title: "Welcome!"
 ---
 
 This is a website dedicated to unrefined thoughts of mine. Enjoy.
