@@ -7,7 +7,7 @@ author:
 date: 09-10-2024
 categories: [Quarto, R, Python, Statistics, Math] # self-defined categories
 image: sloth.png
-format=html
+format: html
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
@@ -23,7 +23,9 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 <body>
   Hi.  Thanks for looking here.  Hope to post more soon.
 
-  <py-repl auto-generate="false" output-mode="replace">
+  <py-repl 
+    auto-generate="false" 
+    output-mode="replace">
     # press Shift+Enter to execute
     print("Hello World")
   </py-repl>
