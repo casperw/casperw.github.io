@@ -7,17 +7,26 @@ author:
 date: 09-10-2024
 categories: [Quarto, R, Python, Statistics, Math] # self-defined categories
 image: sloth.png
+format=html
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
-
-Hi.  Thanks for looking here.  Hope to post more soon.
 
 ```{=html}
 <html>
   <head>
-    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
-    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
-  </head>
-  <py-repl id="my-repl" auto-generate=true> </py-repl>
+    <title>PyScript REPL</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="https://pyscript.net/releases/2022.12.1/pyscript.css" />
+    <script defer src="https://pyscript.net/releases/2022.12.1/pyscript.js"></script>
+</head>
+<body>
+  Hi.  Thanks for looking here.  Hope to post more soon.
+
+  <py-repl auto-generate="false" output-mode="replace">
+    # press Shift+Enter to execute
+    print("Hello World")
+  </py-repl>
+</body>
 </html>
 ```
