@@ -21,11 +21,11 @@ draft: false # setting this to `true` will prevent your post from appearing on y
     <script defer src="https://pyscript.net/releases/2022.12.1/pyscript.js"></script>
 </head>
 <body>
+<br>
   Hi.  Thanks for looking here.  Hope to post more soon.
 
-  <py-repl 
-    auto-generate="false" 
-    output-mode="replace">
+<br>
+  <py-repl auto-generate="true">
     # press Shift+Enter to execute
     print("Hello World")
   </py-repl>
