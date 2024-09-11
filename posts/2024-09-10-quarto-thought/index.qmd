@@ -12,6 +12,7 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 Hi.  Thanks for looking here.  Hope to post more soon.
 
+```{=html}
 <html>
   <head>
     <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
@@ -19,3 +20,4 @@ Hi.  Thanks for looking here.  Hope to post more soon.
   </head>
   <py-repl id="my-repl" auto-generate=true> </py-repl>
 </html>
+```
